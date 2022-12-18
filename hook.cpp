@@ -23,12 +23,12 @@ using namespace std;
 //	DWORD dwid = 0;
 //	HWND hCalc = FindWindow(NULL, L"11");
 //	if (hCalc == NULL) {
-//		MessageBox(NULL, L"»ñÈ¡´°¿Ú¾ä±úÊ§°Ü£¡", L"ÌáÊ¾", MB_OK);
+//		MessageBox(NULL, L"è·å–çª—å£å¥æŸ„å¤±è´¥ï¼", L"æç¤º", MB_OK);
 //	}
 //	DWORD dwPid = 0;
 //	DWORD dwRub = GetWindowThreadProcessId(hCalc, &dwPid);
 //	if (dwPid == NULL) {
-//		MessageBox(NULL, L"»ñÈ¡Ä¿±ê½ø³ÌpidÊ§°Ü£¡", L"ÌáÊ¾", MB_OK);
+//		MessageBox(NULL, L"è·å–ç›®æ ‡è¿›ç¨‹pidå¤±è´¥ï¼", L"æç¤º", MB_OK);
 //	}
 //	Inject(dwPid);
 //	system("pause");
